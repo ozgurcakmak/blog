@@ -6,11 +6,8 @@ categories: [Lists]
 tags: [Reading List]
 ---
 
-## Months
+## Pool
 
-### September
-
-- [ ] The Russians - Hedrick Smith - *In progress*
 - [ ] Politics and the Soviet Union - Mary McAuley
 - [ ] The Theory and Practice of Communism - R. N. Carew Hunt
 - [ ] A Man Called Intrepid - William Stevenson
@@ -19,6 +16,12 @@ tags: [Reading List]
 - [ ] How Nations Negotiate - Fred Charles Ikie
 - [ ] Ilgana - Özgür Özol
 - [ ] Türk Dış Politikası 1-2 - Baskın Oran
+
+## Months
+
+### September
+
+- [ ] The Russians - Hedrick Smith - *In progress*
 
 
 
