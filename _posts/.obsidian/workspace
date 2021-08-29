@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "4f3a7f81d4139e7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7465531a999ed243",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-08-30-reading-list.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0e4856c8cd6880a",
+    "type": "split",
+    "children": [
+      {
+        "id": "547194b8d933a555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c88b43efeb7ca79b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a08bf1afdc6aa11f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35bb1ab8d6024811",
+    "type": "split",
+    "children": [
+      {
+        "id": "78f24a639155d40f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33aeaaf3e3aa6730",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-08-30-reading-list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7465531a999ed243",
+  "lastOpenFiles": [
+    "2021-08-30-reading-list.md",
+    "2021-08-30-first-post.md"
+  ]
+}
