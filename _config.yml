@@ -79,7 +79,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: http://gravatar.com/avatar/f034bc469a3ba6cf2b88df9dcc2dd399
+avatar: https://gravatar.com/avatar/f034bc469a3ba6cf2b88df9dcc2dd399
 
 # boolean type, the global switch for ToC in posts.
 toc: true
