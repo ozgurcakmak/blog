@@ -22,30 +22,30 @@ The book's contents are as follows:
 
 
 1. Part One: The People
-	a. The Privileged Class: Dachas and Zils
-	b. Consumers: The Art of Queueing
-	c. Corruption: Living na levo
-	d. Private Life: Russians as People
-	e. Women: Liberated but not emancipated
-	f. Children: Between Parent and Teacher
-	g. Youth: Rock without roll
+	1. The Privileged Class: Dachas and Zils
+	2. Consumers: The Art of Queueing
+	3. Corruption: Living na levo
+	4. Private Life: Russians as People
+	5. Women: Liberated but not emancipated
+	6. Children: Between Parent and Teacher
+	7. Youth: Rock without roll
 	
 2. Part Two: The System
-	a. Rural Life: Why They Won't Stay Down on the Farm
-	b. Industrial Life: Skoro Budet - It'll be here soon
-	c. Leaders and Led: Nostalgia for a Strong Boss
-	d. The Party: Communist Rituals and Communist Jokes
-	e. Patriotism: World War II Was Only Yesterday
-	f. Siberia: High Rises on the Permafrost
-	g. Information: White Tass and Letters to the Editor
+	1. Rural Life: Why They Won't Stay Down on the Farm
+	2. Industrial Life: Skoro Budet - It'll be here soon
+	3. Leaders and Led: Nostalgia for a Strong Boss
+	4. The Party: Communist Rituals and Communist Jokes
+	5. Patriotism: World War II Was Only Yesterday
+	6. Siberia: High Rises on the Permafrost
+	7. Information: White Tass and Letters to the Editor
 	
 3. Part Three: Issues
-	a. Culture: Cat and Mouse
-	b. Intellectual Life: The Archipelago of Private Culture
-	c. Religion: Solzhenitsyn and the Russianness of Russia
-	d. Dissent: The Modern Technology of Repression
-	e. The Outside World: Province of the Privileged and the Pariahs
-	f. Convergence: Are They Becoming More Like Us?
+	1. Culture: Cat and Mouse
+	2. Intellectual Life: The Archipelago of Private Culture
+	3. Religion: Solzhenitsyn and the Russianness of Russia
+	4. Dissent: The Modern Technology of Repression
+	5. The Outside World: Province of the Privileged and the Pariahs
+	6. Convergence: Are They Becoming More Like Us?
 
 # Commentary
 As I've said, I liked the book. But does it show its age, it surely does. This book is about a society that's long past gone. Also when reading I can't help but feel the air of superiority from the author. He, for example, mocks the Russian sense of "Ours is better" while, subconsciously, doing the same implicitly.
