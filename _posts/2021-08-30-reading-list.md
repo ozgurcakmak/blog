@@ -8,7 +8,6 @@ tags: [Reading List]
 
 ## Pool
 
-- [ ] Politics and the Soviet Union - Mary McAuley
 - [ ] The Theory and Practice of Communism - R. N. Carew Hunt
 - [ ] A Man Called Intrepid - William Stevenson
 - [ ] Karl Marx on Sociology and Social Philosophy
@@ -21,7 +20,7 @@ tags: [Reading List]
 
 ### September
 
-- [ ] The Russians - Hedrick Smith - *In progress*
-
+- [x] The Russians - Hedrick Smith
+- [ ] Politics and the Soviet Union - Mary McAuley *In Progress*
 
 
