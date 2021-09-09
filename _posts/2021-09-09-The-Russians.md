@@ -1,7 +1,7 @@
 ---
 title: The Russians by Hedrick Smith
 author: Ozgur Ozan Cakmak
-date: 2021-09-09 20:00:00 +0300
+date: 2021-09-09 19:00:00 +0300
 categories: [Books]
 tags: [Book Review, Russia, Russian Culture]
 ---
